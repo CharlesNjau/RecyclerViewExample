@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\94b133366c07ee7611d51317f4b23630\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\User\AndroidStudioProjects\RecyclerViewTutorial\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\058560d4aab5f3eb5f607d9c4561dbde\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7fbacba9409947f3f1fa194db4b31dd9f88174a0">
+        <dex dex="C:\Users\User\AndroidStudioProjects\RecyclerViewTutorial\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\07b35b7dd7b922153d74afb5c0380598\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6c47b3d6ef74a657a38945022be05eb3b4360628">
+        <dex dex="C:\Users\User\AndroidStudioProjects\RecyclerViewTutorial\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bb4b0cc15b8c9fa4acb77101e9a03140\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\User\AndroidStudioProjects\RecyclerViewTutorial\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\ca74c5aeceb0900aeb5a334dfdbf0c2b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d1665bf0bf1d4702216fd42524675d18c3789e87">
+        <dex dex="C:\Users\User\AndroidStudioProjects\RecyclerViewTutorial\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\37aaba55517bbe6b0ebfecb9610d1284\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e5ac95feaf0f7fe43e5581d852c5f5e252edea1">
+        <dex dex="C:\Users\User\AndroidStudioProjects\RecyclerViewTutorial\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\569e75317b5ebe8f5991489f0df432e4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="26ebe5f1e584ab68955c221073a9ba45b8adb80b">
+        <dex dex="C:\Users\User\AndroidStudioProjects\RecyclerViewTutorial\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0-beta1\419585951f4c634aa292db0b734c29541a25b94a\support-annotations-26.0.0-beta1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="419585951f4c634aa292db0b734c29541a25b94a">
+        <dex dex="C:\Users\User\AndroidStudioProjects\RecyclerViewTutorial\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\7ff204833a82f3e7679650c0ea637298\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="00290831ca6f060783db9c00f7d15c94b9096d7c">
+        <dex dex="C:\Users\User\AndroidStudioProjects\RecyclerViewTutorial\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\df5decad1734c830d3e341c9f6aeb7c4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d9d589dc939ea486f21c048cce2a1366d6f30fe9">
+        <dex dex="C:\Users\User\AndroidStudioProjects\RecyclerViewTutorial\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\User\AndroidStudioProjects\RecyclerViewTutorial\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-beta1.aar\e71eddb75deb5e61db18617a7dffb9a0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="16d3127fce136096033bbeb1f2e2d1f2e7b9daf0">
+        <dex dex="C:\Users\User\AndroidStudioProjects\RecyclerViewTutorial\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\577e36c9fe24dbfbbe2deac7e6ba9f41\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1d4a04619afc2262389ed421b6762c77e9dc7a46">
+        <dex dex="C:\Users\User\AndroidStudioProjects\RecyclerViewTutorial\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\d81466b5306c29a17db60921cbc92940\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="926c07c980679a35530feb532d8a5b19147916c3">
+        <dex dex="C:\Users\User\AndroidStudioProjects\RecyclerViewTutorial\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+
+</items>

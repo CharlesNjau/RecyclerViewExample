@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewTutorial</string>
+    <string name="go_2nd_activity">Go 2nd Activity</string>
+    <string name="go3rdview">Go3rdView</string>
+    <string name="go1stview">Go1stView</string>
+    <string name="go_3rd_activity">GO 3RD ACTIVITY</string>
+</resources>
